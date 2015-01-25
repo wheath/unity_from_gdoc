@@ -1,1 +1,1 @@
-/Applications/Unity/Unity.app/Contents/MacOS/Unity -quit -batchmode -executeMethod 
+/Applications/Unity/Unity.app/Contents/MacOS/Unity -batchmode -logFile /Users/student/work/unity_from_gdoc/poc/autobuildlog.txt -projectPath /Users/student/work/unity_from_gdoc/poc/testproj -executeMethod AutoBuilder.testFunc -quit
