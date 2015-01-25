@@ -1,0 +1,344 @@
+2015-01-24 22:24:26.577 Unity[23015:507] NSDocumentController Info.plist warning: The values of CFBundleTypeRole entries must be 'Editor', 'Viewer', 'None', or 'Shell'.
+
+LZMA 4.43 Copyright (c) 1999-2006 Igor Pavlov  2006-06-04
+debugger-agent: Unable to listen on 9
+Options --debugger-agent=transport=dt_socket,embedding=1,defer=y
+
+LICENSE SYSTEM [2015124 22:24:26] Next license update check is after 2015-01-26T01:27:25
+
+
+ BATCHMODE ARGUMENTS:
+/Applications/Unity/Unity.app/Contents/MacOS/Unity
+-batchmode
+-logFile
+/Users/student/work/unity_from_gdoc/poc/static/autobuildlog.txt
+-projectPath
+/Users/student/work/unity_from_gdoc/poc/test_create_p
+-executeMethod
+AutoBuilder.PerformBuild
+-quit
+Successfully changed project path to: /Users/student/work/unity_from_gdoc/poc/test_create_p
+/Users/student/work/unity_from_gdoc/poc/test_create_p
+Loading GUID <-> Path mappings ... 0.001516 seconds.
+Loading Asset Database ...  0.005264 seconds
+AssetDatabase consistency checks ...  0.007224 seconds
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=0
+OpenGL:
+    Version:  OpenGL 2.1 [2.1 NVIDIA-8.26.28 310.40.55b01]
+    Renderer: NVIDIA GeForce GT 640M OpenGL Engine
+    Vendor:   NVIDIA Corporation
+    VRAM:     512 MB
+    Extensions: GL_ARB_color_buffer_float GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_draw_buffers GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_instanced_arrays GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_provoking_vertex GL_ARB_seamless_cube_map GL_ARB_shader_objects GL_ARB_shader_texture_lod GL_ARB_shading_language_100 GL_ARB_shadow GL_ARB_sync GL_ARB_texture_border_clamp GL_ARB_texture_compression GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_float GL_ARB_texture_mirrored_repeat GL_ARB_texture_non_power_of_two GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_transpose_matrix GL_ARB_vertex_array_bgra GL_ARB_vertex_blend GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_window_pos GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_clip_volume_hint GL_EXT_debug_label GL_EXT_debug_marker GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters GL_EXT_gpu_shader4 GL_EXT_multi_draw_arrays GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_provoking_vertex GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_specular_color GL_EXT_shadow_funcs GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_s3tc GL_EXT_texture_env_add GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp GL_EXT_texture_rectangle GL_EXT_texture_shared_exponent GL_EXT_texture_sRGB GL_EXT_texture_sRGB_decode GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_APPLE_aux_depth_stencil GL_APPLE_client_storage GL_APPLE_element_array GL_APPLE_fence GL_APPLE_float_pixels GL_APPLE_flush_buffer_range GL_APPLE_flush_render GL_APPLE_object_purgeable GL_APPLE_packed_pixels GL_APPLE_pixel_buffer GL_APPLE_rgb_422 GL_APPLE_row_bytes GL_APPLE_specular_vector GL_APPLE_texture_range GL_APPLE_transform_hint GL_APPLE_vertex_array_object GL_APPLE_vertex_array_range GL_APPLE_vertex_point_size GL_APPLE_vertex_program_evaluators GL_APPLE_ycbcr_422 GL_ATI_separate_stencil GL_ATI_texture_env_combine3 GL_ATI_texture_float GL_ATI_texture_mirror_once GL_IBM_rasterpos_clip GL_NV_blend_square GL_NV_conditional_render GL_NV_depth_clamp GL_NV_fog_distance GL_NV_fragment_program_option GL_NV_fragment_program2 GL_NV_light_max_exponent GL_NV_multisample_filter_hint GL_NV_point_sprite GL_NV_texgen_reflection GL_NV_texture_barrier GL_NV_vertex_program2_option GL_NV_vertex_program3 GL_SGIS_generate_mipmap GL_SGIS_texture_edge_clamp GL_SGIS_texture_lod 
+GL: Detected 0 MB VRAM
+Begin MonoManager ReloadAssembly
+Platform assembly: /Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEngine.dll (this message is harmless)
+Platform assembly: /Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.dll (this message is harmless)
+Platform assembly: /Applications/Unity/Unity.app/Contents/Frameworks/Managed/Unity.Locator.dll (this message is harmless)
+Platform assembly: /Applications/Unity/Unity.app/Contents/Frameworks/Managed/Unity.DataContract.dll (this message is harmless)
+Platform assembly: /Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/2.0/System.Core.dll (this message is harmless)
+Platform assembly: /Applications/Unity/Unity.app/Contents/Frameworks/Managed/Unity.IvyParser.dll (this message is harmless)
+Platform assembly: /Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/2.0/System.dll (this message is harmless)
+Platform assembly: /Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/2.0/System.Xml.dll (this message is harmless)
+Platform assembly: /Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/2.0/System.Configuration.dll (this message is harmless)
+Platform assembly: /Applications/Unity/Unity.app/Contents/PackageManager/Unity/PackageManager/4.6.1/Unity.PackageManager.dll (this message is harmless)
+Initializing Unity.PackageManager (PackageManager) v4.6.1 for Unity v4.6.1
+Setting GUISystem v4.6.1 for Unity v4.6.1f1 to /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/4.6.1
+Registering custom dll's ...
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/BlackBerryPlayer/UnityEditor.BB10.Extensions.dll
+Registered in 0.001598 seconds.
+Non platform assembly: /Users/student/work/unity_from_gdoc/poc/test_create_p/Library/ScriptAssemblies/Assembly-CSharp.dll (this message is harmless)
+Loading /Users/student/work/unity_from_gdoc/poc/test_create_p/Library/ScriptAssemblies/Assembly-CSharp.dll into Unity Child Domain
+Non platform assembly: /Users/student/work/unity_from_gdoc/poc/test_create_p/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll (this message is harmless)
+Loading /Users/student/work/unity_from_gdoc/poc/test_create_p/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll into Unity Child Domain
+Platform assembly: /Applications/Unity/Unity.app/Contents/PackageManager/Unity/PackageManager/4.6.1/Unity.PackageManager.dll (this message is harmless)
+Loading /Applications/Unity/Unity.app/Contents/PackageManager/Unity/PackageManager/4.6.1/Unity.PackageManager.dll into Unity Child Domain
+Non platform assembly: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll (this message is harmless)
+Loading /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll into Unity Child Domain
+Non platform assembly: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/4.6.1/Editor/UnityEditor.UI.dll (this message is harmless)
+Loading /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/4.6.1/Editor/UnityEditor.UI.dll into Unity Child Domain
+Platform assembly: /Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.Graphs.dll (this message is harmless)
+Loading /Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.Graphs.dll into Unity Child Domain
+Non platform assembly: /Applications/Unity/Unity.app/Contents/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll (this message is harmless)
+Loading /Applications/Unity/Unity.app/Contents/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll into Unity Child Domain
+Non platform assembly: /Applications/Unity/Unity.app/Contents/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll (this message is harmless)
+Loading /Applications/Unity/Unity.app/Contents/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll into Unity Child Domain
+Non platform assembly: /Applications/Unity/Unity.app/Contents/PlaybackEngines/BlackBerryPlayer/UnityEditor.BB10.Extensions.dll (this message is harmless)
+Loading /Applications/Unity/Unity.app/Contents/PlaybackEngines/BlackBerryPlayer/UnityEditor.BB10.Extensions.dll into Unity Child Domain
+Platform assembly: /Applications/Unity/Unity.app/Contents/Frameworks/Managed/Mono.Cecil.dll (this message is harmless)
+Platform assembly: /Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/2.0/UnityScript.dll (this message is harmless)
+Platform assembly: /Applications/Unity/Unity.app/Contents/Frameworks/Managed/ICSharpCode.NRefactory.dll (this message is harmless)
+Platform assembly: /Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/2.0/System.Xml.Linq.dll (this message is harmless)
+Mono: successfully reloaded assembly
+- Completed reload, in  0.465 seconds
+System memory in use before: 23.9 MB.
+Unloading 59 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 21.9 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 355.
+Total: 10.831807 ms (FindLiveObjects: 0.028672 ms CreateObjectMapping: 0.008056 ms MarkObjects: 0.484066 ms  DeleteObjects: 0.422635 ms)
+
+Validating Project structure ... 0.001511 seconds.
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.001534 seconds (Nothing changed)
+System memory in use before: 25.8 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 25.5 MB.
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 371.
+Total: 3.148695 ms (FindLiveObjects: 0.025760 ms CreateObjectMapping: 0.004905 ms MarkObjects: 0.446987 ms  DeleteObjects: 0.003436 ms)
+
+Updating ProjectSettings/ProjectSettings.asset - GUID: 00000000000000004000000000000000...
+ done. [Time: 19.406940 ms] 
+
+----- Total AssetImport time: 0.043663s, AssetImport time: 0.028656s, Asset hashing: 0.000000s [0 B, 0.000000 mb/s]
+
+DisplayProgressbar: Building Player
+building target 6
+Native extension for build target not found
+- starting compile Library/ScriptAssemblies/Assembly-CSharp.dll, for buildtarget 6
+
+-----Compiler Commandline Arguments:
+Filename: /Applications/Unity/Unity.app/Contents/Frameworks/Mono/bin/mono
+Arguments: '/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity_web/smcs.exe'  @Temp/UnityTempFile-ede4d49c5f1394cf6bf5c31a89e0869a
+MONO_CFG_DIR: /Applications/Unity/Unity.app/Contents/Frameworks/Mono/etc
+MONO_PATH: /Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity_web
+index: 87
+Responsefile: Temp/UnityTempFile-ede4d49c5f1394cf6bf5c31a89e0869a Contents: 
+-debug
+-target:library
+-nowarn:0169
+-out:'Temp/Assembly-CSharp.dll'
+-r:'/Applications/Unity/Unity.app/Contents/PlaybackEngines/WebPlayer/Managed/UnityEngine.dll'
+-r:'/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll'
+-define:UNITY_4_6_1
+-define:UNITY_4_6
+-define:UNITY_WEBPLAYER
+-define:WEBPLUG
+-define:ENABLE_MICROPHONE
+-define:ENABLE_TEXTUREID_MAP
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_NEW_HIERARCHY 
+-define:ENABLE_AUDIO_FMOD
+-define:ENABLE_MONO
+-define:ENABLE_TERRAIN
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_GENERICS
+-define:INCLUDE_WP8SUPPORT
+-define:ENABLE_MOVIES
+-define:ENABLE_WWW
+-define:ENABLE_IMAGEEFFECTS
+-define:ENABLE_4_6_FEATURES
+-define:INCLUDE_WP_BLUE_SUPPORT
+-define:ENABLE_WEBCAM
+-define:INCLUDE_METROSUPPORT
+-define:RENDER_SOFTWARE_CURSOR
+-define:ENABLE_NETWORK
+-define:ENABLE_PHYSICS
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_2D_PHYSICS
+-define:ENABLE_SHADOWS
+-define:ENABLE_AUDIO
+-define:ENABLE_NAVMESH_CARVING
+-define:ENABLE_DUCK_TYPING
+-define:ENABLE_SINGLE_INSTANCE_BUILD_SETTING
+-define:UNITY_PRO_LICENSE
+-define:CROSS_PLATFORM_INPUT
+'Assets/MobileInput/Scripts/CrossPlatformInputManager.cs'
+'Assets/MobileInput/Scripts/Joystick.cs'
+'Assets/MobileInput/Scripts/MobileControlRig.cs'
+'Assets/MobileInput/Scripts/PlatformSpecific/MobileInput.cs'
+'Assets/MobileInput/Scripts/PlatformSpecific/StandaloneInput.cs'
+'Assets/MobileInput/Scripts/VirtualInput.cs'
+'Assets/PauseManager.cs'
+'Assets/Scripts/Enemy/EnemyAttack.cs'
+'Assets/Scripts/Enemy/EnemyHealth.cs'
+'Assets/Scripts/Enemy/EnemyMovement.cs'
+'Assets/Scripts/Managers/EnemyManager.cs'
+'Assets/Scripts/Managers/GameOverManager.cs'
+'Assets/Scripts/Managers/ScoreManager.cs'
+'Assets/Scripts/Player/PlayerHealth.cs'
+'Assets/Scripts/Player/PlayerMovement.cs'
+'Assets/Scripts/Player/PlayerShooting.cs'
+'Assets/_CompletedAssets/Scripts/Camera/CameraFollow.cs'
+'Assets/_CompletedAssets/Scripts/Enemy/EnemyAttack.cs'
+'Assets/_CompletedAssets/Scripts/Enemy/EnemyHealth.cs'
+'Assets/_CompletedAssets/Scripts/Enemy/EnemyMovement.cs'
+'Assets/_CompletedAssets/Scripts/Helpers/BeautyShot.cs'
+'Assets/_CompletedAssets/Scripts/Helpers/RandomAnimationPoint.cs'
+'Assets/_CompletedAssets/Scripts/Helpers/RandomParticlePoint.cs'
+'Assets/_CompletedAssets/Scripts/Helpers/VolumeHandler.cs'
+'Assets/_CompletedAssets/Scripts/Managers/EnemyManager.cs'
+'Assets/_CompletedAssets/Scripts/Managers/GameOverManager.cs'
+'Assets/_CompletedAssets/Scripts/Managers/ScoreManager.cs'
+'Assets/_CompletedAssets/Scripts/Player/PlayerHealth.cs'
+'Assets/_CompletedAssets/Scripts/Player/PlayerMovement.cs'
+'Assets/_CompletedAssets/Scripts/Player/PlayerShooting.cs'
+
+-----CompilerOutput:-stdout--exitcode: 0--compilationhadfailure: False--outfile: Temp/Assembly-CSharp.dll
+Compilation succeeded - 2 warning(s)
+-----CompilerOutput:-stderr----------
+Assets/_CompletedAssets/Scripts/Helpers/BeautyShot.cs(19,24): warning CS0414: The private field `BeautyShot._folder' is assigned but its value is never used
+Assets/_CompletedAssets/Scripts/Helpers/BeautyShot.cs(20,27): warning CS0414: The private field `BeautyShot._result' is assigned but its value is never used
+-----EndCompilerOutput---------------
+- Finished compile Library/ScriptAssemblies/Assembly-CSharp.dll
+Assets/_CompletedAssets/Scripts/Helpers/BeautyShot.cs(19,24): warning CS0414: The private field `BeautyShot._folder' is assigned but its value is never used
+ 
+(Filename: Assets/_CompletedAssets/Scripts/Helpers/BeautyShot.cs Line: 19)
+
+Assets/_CompletedAssets/Scripts/Helpers/BeautyShot.cs(20,27): warning CS0414: The private field `BeautyShot._result' is assigned but its value is never used
+ 
+(Filename: Assets/_CompletedAssets/Scripts/Helpers/BeautyShot.cs Line: 20)
+
+Native extension for build target not found
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.001505 seconds (Nothing changed)
+Determining assets that need to be reimported for target platform ... 0.066513 seconds.
+
+----- Total AssetImport time: 0.066621s, AssetImport time: 0.000000s, Asset hashing: 0.000000s [0 B, 0.000000 mb/s]
+
+
+Packing sprites:
+Platform assembly: /Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/2.0/Boo.Lang.Compiler.dll (this message is harmless)
+Platform assembly: /Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/2.0/Boo.Lang.dll (this message is harmless)
+Platform assembly: /Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/2.0/Boo.Lang.Parser.dll (this message is harmless)
+Platform assembly: /Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/2.0/UnityScript.Lang.dll (this message is harmless)
+Platform assembly: /Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/2.0/Mono.Security.dll (this message is harmless)
+- Grouping sprites using the selected SpritePackerPolicy.
+- Packing 0 atlases.
+- Packing completed.
+System memory in use before: 35.0 MB.
+Unloading 59 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 31.7 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 376.
+Total: 20.215532 ms (FindLiveObjects: 0.027675 ms CreateObjectMapping: 0.016966 ms MarkObjects: 1.037102 ms  DeleteObjects: 0.460912 ms)
+
+
+
+Mono dependencies included in the build
+Dependency assembly - UnityEngine.UI.dll
+Dependency assembly - Assembly-CSharp.dll
+
+System memory in use before: 35.1 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 35.1 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 366.
+Total: 1.425976 ms (FindLiveObjects: 0.025733 ms CreateObjectMapping: 0.005256 ms MarkObjects: 0.970216 ms  DeleteObjects: 0.007722 ms)
+
+System memory in use before: 35.1 MB.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 35.1 MB.
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 372.
+Total: 0.786293 ms (FindLiveObjects: 0.023996 ms CreateObjectMapping: 0.004530 ms MarkObjects: 0.733052 ms  DeleteObjects: 0.003053 ms)
+
+System memory in use before: 35.2 MB.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 35.2 MB.
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 379.
+Total: 1.018626 ms (FindLiveObjects: 0.024827 ms CreateObjectMapping: 0.006309 ms MarkObjects: 0.953350 ms  DeleteObjects: 0.003154 ms)
+
+System memory in use before: 148.5 MB.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 42.5 MB.
+
+Unloading 100 unused Assets to reduce memory usage. Loaded Objects now: 382.
+Total: 68.518440 ms (FindLiveObjects: 0.035714 ms CreateObjectMapping: 0.008268 ms MarkObjects: 1.038575 ms  DeleteObjects: 64.284164 ms)
+
+System memory in use before: 42.9 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 42.8 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 387.
+Total: 1.393305 ms (FindLiveObjects: 0.030328 ms CreateObjectMapping: 0.005513 ms MarkObjects: 1.003587 ms  DeleteObjects: 0.011978 ms)
+
+
+***Player size statistics***
+Level 0 'Assets/MyNewScene.unity' uses 94.1 KB compressed / 0.6 MB uncompressed.
+Total compressed size 94.1 KB. Total uncompressed size 0.6 MB.
+
+Textures      0.0 kb	 0.0% 
+Meshes        0.0 kb	 0.0% 
+Animations    0.0 kb	 0.0% 
+Sounds        0.0 kb	 0.0% 
+Shaders       0.0 kb	 0.0% 
+Other Assets  0.2 kb	 0.1% 
+Levels        10.3 kb	 4.1% 
+Scripts       196.4 kb	 79.1% 
+Included DLLs 0.0 kb	 0.0% 
+File headers  41.4 kb	 16.7% 
+Complete size 248.2 kb	 100.0% 
+
+Used Assets, sorted by uncompressed size:
+ 3.4 kb	 1.4% /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll
+ 0.1 kb	 0.1% Assets/MobileInput/Scripts/CrossPlatformInputManager.cs
+ 0.1 kb	 0.1% Assets/MobileInput/Scripts/PlatformSpecific/StandaloneInput.cs
+ 0.1 kb	 0.0% Assets/MobileInput/Scripts/PlatformSpecific/MobileInput.cs
+ 0.1 kb	 0.0% Assets/MobileInput/Scripts/MobileControlRig.cs
+ 0.1 kb	 0.0% Resources/unity_builtin_extra
+ 0.1 kb	 0.0% Assets/MobileInput/Scripts/VirtualInput.cs
+ 0.1 kb	 0.0% Assets/_CompletedAssets/Scripts/Player/PlayerShooting.cs
+ 0.1 kb	 0.0% Assets/_CompletedAssets/Scripts/Player/PlayerMovement.cs
+ 0.1 kb	 0.0% Assets/_CompletedAssets/Scripts/Managers/GameOverManager.cs
+ 0.1 kb	 0.0% Assets/_CompletedAssets/Scripts/Enemy/EnemyMovement.cs
+ 0.1 kb	 0.0% Assets/_CompletedAssets/Scripts/Player/PlayerHealth.cs
+ 0.1 kb	 0.0% Assets/_CompletedAssets/Scripts/Managers/ScoreManager.cs
+ 0.1 kb	 0.0% Assets/_CompletedAssets/Scripts/Managers/EnemyManager.cs
+ 0.1 kb	 0.0% Assets/_CompletedAssets/Scripts/Helpers/RandomParticlePoint.cs
+ 0.1 kb	 0.0% Assets/_CompletedAssets/Scripts/Helpers/RandomAnimationPoint.cs
+ 0.1 kb	 0.0% Assets/_CompletedAssets/Scripts/Enemy/EnemyHealth.cs
+ 0.1 kb	 0.0% Assets/_CompletedAssets/Scripts/Enemy/EnemyAttack.cs
+ 0.1 kb	 0.0% Assets/_CompletedAssets/Scripts/Camera/CameraFollow.cs
+ 0.1 kb	 0.0% Assets/_CompletedAssets/Scripts/Helpers/VolumeHandler.cs
+ 0.1 kb	 0.0% Assets/Scripts/Player/PlayerShooting.cs
+ 0.1 kb	 0.0% Assets/Scripts/Player/PlayerMovement.cs
+ 0.1 kb	 0.0% Assets/Scripts/Managers/GameOverManager.cs
+ 0.1 kb	 0.0% Assets/Scripts/Enemy/EnemyMovement.cs
+ 0.1 kb	 0.0% Assets/_CompletedAssets/Scripts/Helpers/BeautyShot.cs
+ 0.1 kb	 0.0% Assets/Scripts/Player/PlayerHealth.cs
+ 0.1 kb	 0.0% Assets/Scripts/Managers/ScoreManager.cs
+ 0.1 kb	 0.0% Assets/Scripts/Managers/EnemyManager.cs
+ 0.1 kb	 0.0% Assets/Scripts/Enemy/EnemyHealth.cs
+ 0.1 kb	 0.0% Assets/Scripts/Enemy/EnemyAttack.cs
+ 0.1 kb	 0.0% Assets/PauseManager.cs
+ 0.1 kb	 0.0% Assets/MobileInput/Scripts/Joystick.cs
+System memory in use before: 42.9 MB.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 43.0 MB.
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 394.
+Total: 1.069341 ms (FindLiveObjects: 0.025342 ms CreateObjectMapping: 0.006991 ms MarkObjects: 0.999853 ms  DeleteObjects: 0.003387 ms)
+
+System memory in use before: 42.9 MB.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 43.0 MB.
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 394.
+Total: 0.979752 ms (FindLiveObjects: 0.027450 ms CreateObjectMapping: 0.006604 ms MarkObjects: 0.917716 ms  DeleteObjects: 0.004258 ms)
+
+- starting compile Library/ScriptAssemblies/Assembly-CSharp.dll, for buildtarget 6
+System memory in use before: 43.1 MB.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 43.0 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 394.
+Total: 3.800031 ms (FindLiveObjects: 0.060496 ms CreateObjectMapping: 0.032912 ms MarkObjects: 1.451620 ms  DeleteObjects: 1.266892 ms)
+
+
+*** Completed 'Build.Player.WebPlayer' in 3 seconds
+
+Batchmode quit successfully invoked - shutting down!
+System memory in use before: 42.9 MB.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 42.9 MB.
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 381.
+Total: 1.198174 ms (FindLiveObjects: 0.026375 ms CreateObjectMapping: 0.005512 ms MarkObjects: 1.129515 ms  DeleteObjects: 0.003920 ms)
+
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.001724 seconds (Nothing changed)
+Cleanup mono
+Exiting batchmode successfully now!

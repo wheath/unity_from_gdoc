@@ -1,1 +1,1 @@
-/Applications/Unity/Unity.app/Contents/MacOS/Unity -batchmode -logFile /Users/student/work/unity_from_gdoc/poc/autobuildlog.txt -projectPath /Users/student/work/unity_from_gdoc/poc/test_create_p -executeMethod CreateScene.createScene -quit
+/Applications/Unity/Unity.app/Contents/MacOS/Unity -batchmode -logFile /Users/student/work/unity_from_gdoc/poc/static/unity_builds/createscenelog.txt -projectPath /Users/student/work/unity_from_gdoc/poc/test_create_p -executeMethod CreateScene.createScene -quit

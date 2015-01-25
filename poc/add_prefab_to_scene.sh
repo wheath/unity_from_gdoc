@@ -1,0 +1,1 @@
+/Applications/Unity/Unity.app/Contents/MacOS/Unity -batchmode -logFile /Users/student/work/unity_from_gdoc/poc/static/unity_builds/addprefablog.txt -projectPath /Users/student/work/unity_from_gdoc/poc/test_create_p -executeMethod AddPrefabToScene.addPrefab -quit

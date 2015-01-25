@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Doc2game Home Page</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
+  </head>
+  <body>
+    <div class="container">
+      <h1>Welcome to Doc2Game!</h1>
+      <br>
+      <p>Have you ever wanted to create a fully functioning 3D game but did not know how to do that quickly and easily?!</p>
+      <p>If you can create a google document with a little bit of styling, you can make a fully functioning 3D game today!</p>
+      <p>Doc2Game allows you to:
+        <ul>
+          <li>Specify a 3D game in a google document</li>
+          <li>Generate a fully functioning 3D game from that google document</li>
+        </ul>
+        <a href='https://docs.google.com/document/d/1AARujgkeE5XkZYRbW-PLcDBfDqjNK_86dZpCR1mRIrs/edit?usp=sharing'>Click here to see an example game google doc</a>
+      </p>
+      <form action='build_game' method='POST'>
+        <fieldset>
+        <legend>Build Info</legend>
+        Google Doc Url: 
+        <input type='text' name='doc_url' size='150'>
+        <input type='submit' value='Submit'>
+        </fieldset>
+      </form>
+    </div>
+  </body>
+</html>
+

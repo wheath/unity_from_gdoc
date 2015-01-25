@@ -1,0 +1,1 @@
+/Applications/Unity/Unity.app/Contents/MacOS/Unity -logFile /Users/student/work/unity_from_gdoc/poc/static/unity_builds/createprojectlog.txt -batchmode -createProject /Users/student/work/unity_from_gdoc/poc/test_create_p -importPackage /Users/student/work/unity_from_gdoc/poc/player_package/player.unitypackage -quit
