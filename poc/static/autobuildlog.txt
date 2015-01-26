@@ -1,10 +1,10 @@
-2015-01-25 13:19:00.474 Unity[38428:507] NSDocumentController Info.plist warning: The values of CFBundleTypeRole entries must be 'Editor', 'Viewer', 'None', or 'Shell'.
+2015-01-25 14:34:27.061 Unity[40036:507] NSDocumentController Info.plist warning: The values of CFBundleTypeRole entries must be 'Editor', 'Viewer', 'None', or 'Shell'.
 
 LZMA 4.43 Copyright (c) 1999-2006 Igor Pavlov  2006-06-04
-debugger-agent: Unable to listen on 6
-Options --debugger-agent=transport=dt_socket,embedding=1,defer=y
+debugger-agent: Unable to listen on 10
+ptions --debugger-agent=transport=dt_socket,embedding=1,defer=y
 
-LICENSE SYSTEM [2015125 13:19:0] Next license update check is after 2015-01-26T01:27:25
+LICENSE SYSTEM [2015125 14:34:27] Next license update check is after 2015-01-26T01:27:25
 
 
  BATCHMODE ARGUMENTS:
@@ -19,9 +19,9 @@ AutoBuilder.PerformBuild
 -quit
 Successfully changed project path to: /Users/student/work/unity_from_gdoc/poc/test_create_p
 /Users/student/work/unity_from_gdoc/poc/test_create_p
-Loading GUID <-> Path mappings ... 0.001476 seconds.
-Loading Asset Database ...  0.005271 seconds
-AssetDatabase consistency checks ...  0.007455 seconds
+Loading GUID <-> Path mappings ... 0.001587 seconds.
+Loading Asset Database ...  0.005487 seconds
+AssetDatabase consistency checks ...  0.007601 seconds
 Initialize engine version: 4.6.1f1 (d1db7a1b5196)
 GfxDevice: creating device client; threaded=0
 OpenGL:
@@ -48,7 +48,7 @@ Registering custom dll's ...
 Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
 Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/BlackBerryPlayer/UnityEditor.BB10.Extensions.dll
-Registered in 0.001860 seconds.
+Registered in 0.001757 seconds.
 Non platform assembly: /Users/student/work/unity_from_gdoc/poc/test_create_p/Library/ScriptAssemblies/Assembly-CSharp.dll (this message is harmless)
 Loading /Users/student/work/unity_from_gdoc/poc/test_create_p/Library/ScriptAssemblies/Assembly-CSharp.dll into Unity Child Domain
 Non platform assembly: /Users/student/work/unity_from_gdoc/poc/test_create_p/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll (this message is harmless)
@@ -72,27 +72,27 @@ Platform assembly: /Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mo
 Platform assembly: /Applications/Unity/Unity.app/Contents/Frameworks/Managed/ICSharpCode.NRefactory.dll (this message is harmless)
 Platform assembly: /Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/2.0/System.Xml.Linq.dll (this message is harmless)
 Mono: successfully reloaded assembly
-- Completed reload, in  0.454 seconds
-System memory in use before: 24.3 MB.
+- Completed reload, in  0.485 seconds
+System memory in use before: 24.1 MB.
 Unloading 60 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-System memory in use after: 22.3 MB.
+System memory in use after: 22.1 MB.
 
 Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 355.
-Total: 11.404708 ms (FindLiveObjects: 0.029008 ms CreateObjectMapping: 0.008000 ms MarkObjects: 0.589145 ms  DeleteObjects: 0.424217 ms)
+Total: 11.961086 ms (FindLiveObjects: 0.031868 ms CreateObjectMapping: 0.008451 ms MarkObjects: 0.537284 ms  DeleteObjects: 0.499798 ms)
 
-Validating Project structure ... 0.001567 seconds.
-Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.001461 seconds (Nothing changed)
-System memory in use before: 31.4 MB.
+Validating Project structure ... 0.001511 seconds.
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.001626 seconds (Nothing changed)
+System memory in use before: 31.2 MB.
 Unloading 18 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-System memory in use after: 30.0 MB.
+System memory in use after: 29.8 MB.
 
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 576.
-Total: 7.719168 ms (FindLiveObjects: 0.040346 ms CreateObjectMapping: 0.008991 ms MarkObjects: 0.623238 ms  DeleteObjects: 0.012030 ms)
+Total: 8.543752 ms (FindLiveObjects: 0.042721 ms CreateObjectMapping: 0.008893 ms MarkObjects: 0.643338 ms  DeleteObjects: 0.014181 ms)
 
 Updating ProjectSettings/ProjectSettings.asset - GUID: 00000000000000004000000000000000...
- done. [Time: 18.438332 ms] 
+ done. [Time: 19.871176 ms] 
 
------ Total AssetImport time: 0.042042s, AssetImport time: 0.027536s, Asset hashing: 0.000000s [0 B, 0.000000 mb/s]
+----- Total AssetImport time: 0.044880s, AssetImport time: 0.029270s, Asset hashing: 0.000000s [0 B, 0.000000 mb/s]
 
 DisplayProgressbar: Building Player
 building target 6
@@ -101,11 +101,11 @@ Native extension for build target not found
 
 -----Compiler Commandline Arguments:
 Filename: /Applications/Unity/Unity.app/Contents/Frameworks/Mono/bin/mono
-Arguments: '/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity_web/smcs.exe'  @Temp/UnityTempFile-e6636617161ee4d2aa1eee64808fd81e
-MONO_PATH: /Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity_web
+Arguments: '/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity_web/smcs.exe'  @Temp/UnityTempFile-dd4567bec345343c8861ab6013e71562
 MONO_CFG_DIR: /Applications/Unity/Unity.app/Contents/Frameworks/Mono/etc
+MONO_PATH: /Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity_web
 index: 87
-Responsefile: Temp/UnityTempFile-e6636617161ee4d2aa1eee64808fd81e Contents: 
+Responsefile: Temp/UnityTempFile-dd4567bec345343c8861ab6013e71562 Contents: 
 -debug
 -target:library
 -nowarn:0169
@@ -193,10 +193,10 @@ Assets/_CompletedAssets/Scripts/Helpers/BeautyShot.cs(20,27): warning CS0414: Th
 (Filename: Assets/_CompletedAssets/Scripts/Helpers/BeautyShot.cs Line: 20)
 
 Native extension for build target not found
-Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.001717 seconds (Nothing changed)
-Determining assets that need to be reimported for target platform ... 0.071646 seconds.
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.001690 seconds (Nothing changed)
+Determining assets that need to be reimported for target platform ... 0.071116 seconds.
 
------ Total AssetImport time: 0.071868s, AssetImport time: 0.000000s, Asset hashing: 0.000000s [0 B, 0.000000 mb/s]
+----- Total AssetImport time: 0.071341s, AssetImport time: 0.000000s, Asset hashing: 0.000000s [0 B, 0.000000 mb/s]
 
 
 Packing sprites:
@@ -208,12 +208,12 @@ Platform assembly: /Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mo
 - Grouping sprites using the selected SpritePackerPolicy.
 - Packing 0 atlases.
 - Packing completed.
-System memory in use before: 39.6 MB.
+System memory in use before: 39.4 MB.
 Unloading 60 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-System memory in use after: 36.2 MB.
+System memory in use after: 36.0 MB.
 
 Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 581.
-Total: 20.554083 ms (FindLiveObjects: 0.039862 ms CreateObjectMapping: 0.017506 ms MarkObjects: 1.142689 ms  DeleteObjects: 0.441918 ms)
+Total: 21.139992 ms (FindLiveObjects: 0.042769 ms CreateObjectMapping: 0.018264 ms MarkObjects: 1.140903 ms  DeleteObjects: 0.509768 ms)
 
 
 
@@ -221,40 +221,40 @@ Mono dependencies included in the build
 Dependency assembly - UnityEngine.UI.dll
 Dependency assembly - Assembly-CSharp.dll
 
-System memory in use before: 46.6 MB.
+System memory in use before: 46.4 MB.
 Unloading 10 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-System memory in use after: 36.5 MB.
+System memory in use after: 36.3 MB.
 
 Unloading 122 unused Assets to reduce memory usage. Loaded Objects now: 372.
-Total: 7.853909 ms (FindLiveObjects: 0.033438 ms CreateObjectMapping: 0.008233 ms MarkObjects: 1.004934 ms  DeleteObjects: 2.769866 ms)
+Total: 8.862767 ms (FindLiveObjects: 0.034577 ms CreateObjectMapping: 0.008161 ms MarkObjects: 1.017531 ms  DeleteObjects: 3.199697 ms)
 
-System memory in use before: 36.6 MB.
+System memory in use before: 36.3 MB.
 Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-System memory in use after: 36.6 MB.
+System memory in use after: 36.3 MB.
 
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 377.
-Total: 0.926673 ms (FindLiveObjects: 0.028668 ms CreateObjectMapping: 0.005150 ms MarkObjects: 0.861551 ms  DeleteObjects: 0.008642 ms)
+Total: 1.069575 ms (FindLiveObjects: 0.032294 ms CreateObjectMapping: 0.005835 ms MarkObjects: 0.991198 ms  DeleteObjects: 0.010480 ms)
 
-System memory in use before: 40.7 MB.
+System memory in use before: 40.5 MB.
 Unloading 16 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-System memory in use after: 39.8 MB.
+System memory in use after: 39.5 MB.
 
 Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 586.
-Total: 5.222145 ms (FindLiveObjects: 0.033804 ms CreateObjectMapping: 0.009540 ms MarkObjects: 1.132833 ms  DeleteObjects: 0.003340 ms)
+Total: 5.712215 ms (FindLiveObjects: 0.039003 ms CreateObjectMapping: 0.010948 ms MarkObjects: 1.211568 ms  DeleteObjects: 0.003659 ms)
 
-System memory in use before: 153.1 MB.
+System memory in use before: 152.9 MB.
 Unloading 10 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-System memory in use after: 44.0 MB.
+System memory in use after: 43.7 MB.
 
 Unloading 216 unused Assets to reduce memory usage. Loaded Objects now: 387.
-Total: 70.165329 ms (FindLiveObjects: 0.035964 ms CreateObjectMapping: 0.010107 ms MarkObjects: 1.104349 ms  DeleteObjects: 64.820206 ms)
+Total: 69.913422 ms (FindLiveObjects: 0.036672 ms CreateObjectMapping: 0.010126 ms MarkObjects: 1.303337 ms  DeleteObjects: 63.967815 ms)
 
-System memory in use before: 52.3 MB.
+System memory in use before: 52.1 MB.
 Unloading 22 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-System memory in use after: 44.2 MB.
+System memory in use after: 44.0 MB.
 
 Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 391.
-Total: 9.311022 ms (FindLiveObjects: 0.038606 ms CreateObjectMapping: 0.006668 ms MarkObjects: 1.134822 ms  DeleteObjects: 2.720617 ms)
+Total: 10.250409 ms (FindLiveObjects: 0.039096 ms CreateObjectMapping: 0.007120 ms MarkObjects: 1.187226 ms  DeleteObjects: 3.120820 ms)
 
 
 ***Player size statistics***
@@ -327,39 +327,48 @@ Used Assets, sorted by uncompressed size:
  0.1 kb	 0.0% Assets/Scripts/Enemy/EnemyAttack.cs
  0.1 kb	 0.0% Assets/PauseManager.cs
  0.1 kb	 0.0% Assets/MobileInput/Scripts/Joystick.cs
-System memory in use before: 48.3 MB.
+System memory in use before: 48.0 MB.
 Unloading 16 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-System memory in use after: 47.3 MB.
+System memory in use after: 47.1 MB.
 
 Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 600.
-Total: 5.586226 ms (FindLiveObjects: 0.034118 ms CreateObjectMapping: 0.009847 ms MarkObjects: 1.135057 ms  DeleteObjects: 0.003212 ms)
+Total: 5.872652 ms (FindLiveObjects: 0.040611 ms CreateObjectMapping: 0.011369 ms MarkObjects: 1.284841 ms  DeleteObjects: 0.004612 ms)
 
-System memory in use before: 48.3 MB.
+System memory in use before: 48.0 MB.
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-System memory in use after: 47.6 MB.
+System memory in use after: 47.4 MB.
 
 Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 620.
-Total: 5.447949 ms (FindLiveObjects: 0.049753 ms CreateObjectMapping: 0.011642 ms MarkObjects: 1.242062 ms  DeleteObjects: 0.003543 ms)
+Total: 5.765721 ms (FindLiveObjects: 0.049144 ms CreateObjectMapping: 0.010530 ms MarkObjects: 1.300784 ms  DeleteObjects: 0.004103 ms)
 
 - starting compile Library/ScriptAssemblies/Assembly-CSharp.dll, for buildtarget 6
-System memory in use before: 47.9 MB.
+System memory in use before: 47.6 MB.
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-System memory in use after: 47.6 MB.
+System memory in use after: 47.4 MB.
 
 Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 620.
-Total: 4.680259 ms (FindLiveObjects: 0.092691 ms CreateObjectMapping: 0.037800 ms MarkObjects: 1.738023 ms  DeleteObjects: 1.065270 ms)
+Total: 4.611817 ms (FindLiveObjects: 0.084858 ms CreateObjectMapping: 0.039790 ms MarkObjects: 1.770921 ms  DeleteObjects: 0.864143 ms)
 
 
-*** Completed 'Build.Player.WebPlayer' in 17 seconds
+*** Completed 'Build.Player.WebPlayer' in 21 seconds
 
 Batchmode quit successfully invoked - shutting down!
-System memory in use before: 47.4 MB.
+System memory in use before: 47.2 MB.
 Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-System memory in use after: 44.3 MB.
+System memory in use after: 44.1 MB.
 
 Unloading 120 unused Assets to reduce memory usage. Loaded Objects now: 388.
-Total: 2.498211 ms (FindLiveObjects: 0.032602 ms CreateObjectMapping: 0.008513 ms MarkObjects: 1.067008 ms  DeleteObjects: 1.356320 ms)
+Total: 4.368843 ms (FindLiveObjects: 0.034521 ms CreateObjectMapping: 0.008857 ms MarkObjects: 1.126515 ms  DeleteObjects: 3.151486 ms)
 
-Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.001607 seconds (Nothing changed)
+Refresh: detecting if any assets need to be imported or removed ... 
+Hashing assets ... 0.000130 seconds
+----- Compute hash(es) for 2 asset(s).
+----- Asset named Assets/Editor/AutoBuilder.cs is skipped as no actual change.
+----- Asset named Assets/Editor/CreateScene.cs is skipped as no actual change.
+
+Refresh: elapses 0.016125 seconds (Nothing changed)
+
+----- Total AssetImport time: 0.014625s, AssetImport time: 0.000000s, Asset hashing: 0.000248s [1.5 KB, 6.013225 mb/s]
+
 Cleanup mono
 Exiting batchmode successfully now!
